@@ -7,3 +7,6 @@ D:\Github\Sudoku9000\Sudoku9000\bin\Debug\Sudoku9000.exe
 D:\Github\Sudoku9000\Sudoku9000\bin\Debug\Sudoku9000.pdb
 D:\Github\Sudoku9000\Sudoku9000\obj\Debug\Sudoku9000.exe
 D:\Github\Sudoku9000\Sudoku9000\obj\Debug\Sudoku9000.pdb
+D:\Github\NHL-Programmeren\Sudoku9000\Sudoku9000\bin\Debug\Sudoku9000.exe.config
+D:\Github\NHL-Programmeren\Sudoku9000\Sudoku9000\obj\Debug\Sudoku9000.exe
+D:\Github\NHL-Programmeren\Sudoku9000\Sudoku9000\obj\Debug\Sudoku9000.pdb

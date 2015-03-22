@@ -129,11 +129,18 @@ namespace Sudoku9000
         
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
 
         //public bool checkSquare(int row, int colum, int getal)
         //{
             
         //}
+
+        // Nu in github, openen via Github map.
 
 
     }
